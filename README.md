@@ -10,7 +10,7 @@ L'objectif de ce projet est de modéliser une colonie d'abeilles, où chaque typ
 
 ![Ecran titre](./accueil.png)
 ![Simulation](./simulation.png)
-![Schéma de fin](./end.png)
+![Schéma de fin](./fin.png)
 
 ## Fonctionnalités
 
