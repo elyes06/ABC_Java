@@ -57,3 +57,8 @@ Pour lancer la simulation, utilisez la commande suivante :
 ```bash
 java MainGame
 ```
+
+## Contributeur
+
+- [elyes06](https://github.com/elyes06)
+- [yuuji-dev](https://github.com/yuuji-dev)
